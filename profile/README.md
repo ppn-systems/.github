@@ -14,7 +14,7 @@ Welcome to **PPN Systems** — a developer-driven organization focused on creati
 
 | Project | Description |
 |--------|-------------|
-| [**Nalix**](https://github.com/ppn-systems/nalix) | A blazing-fast .NET serialization and networking framework designed for real-time systems, games, and high-load services. |
+| [**Nalix**](https://github.com/ppn-systems/nalix) | A blazing-fast .NET serialization and networking framework designed for real-time systems, high-load services. |
 | [**Nalix.Cryptography**](https://github.com/ppn-systems/Nalix/tree/master/src/Nalix.Cryptography) | Efficient and secure cryptography utilities for .NET, including RSA, SHA, CRC and more. |
 
 ---
