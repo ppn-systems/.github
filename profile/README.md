@@ -10,6 +10,7 @@ Welcome to **PPN Systems** — a developer-driven organization focused on creati
 
 ![License](https://img.shields.io/github/license/ppn-systems/nalix)
 ![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet?logo=dotnet&logoColor=white)
 ![Issues](https://img.shields.io/github/issues/ppn-systems/nalix)
 
 | Project | Description |
