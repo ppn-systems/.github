@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/ppn-systems/.github/refs/heads/main/docs/logo.ico) PPN Systems
+# ![Logo](https://raw.githubusercontent.com/ppn-systems/.github/refs/heads/main/docs/ppn.ico) PPN Systems
 
 > **Building fast, secure, and modular systems for .NET developers.**
 
