@@ -11,8 +11,8 @@ Our goal is to help .NET developers build **fast**, **secure**, and **maintainab
 ## 🚀 Core Project
 
 ![License](https://img.shields.io/github/license/ppn-systems/nalix)
-![.NET 9](https://img.shields.io/badge/.NET-9.0-blueviolet?logo=dotnet&logoColor=white)
 ![.NET 10](https://img.shields.io/badge/.NET-10.0-blueviolet?logo=dotnet&logoColor=white)
+![.NET 11](https://img.shields.io/badge/.NET-11.0-blueviolet?logo=dotnet&logoColor=white)
 ![Issues](https://img.shields.io/github/issues/ppn-systems/nalix)
 
 | Project | Description |
@@ -20,23 +20,6 @@ Our goal is to help .NET developers build **fast**, **secure**, and **maintainab
 | [**Nalix**](https://github.com/ppn-systems/nalix) | A blazing‑fast .NET serialization and networking framework designed for real‑time systems and high‑load services. |
 
 > 🧭 _Additional libraries, tools, and sample applications are planned to extend the Nalix ecosystem and support end‑to‑end .NET solutions._
-
----
-
-## 📎 Sample Project: AutoX.Gara
-
-[**AutoX.Gara**](https://github.com/ppn-systems/AutoX.Gara) is a **non‑commercial sample project** that demonstrates how to build a modern **desktop Client–Server** application on top of Nalix and the PPN Systems stack.
-
-- 🖥️ **Client:** .NET MAUI (Windows)  
-- ⚙️ **Server:** .NET console application  
-- 📡 **Communication:** TCP via [Nalix.Network](https://www.nuget.org/packages/Nalix.Network)  
-- 🗄️ **Database:** SQLite (default) or PostgreSQL
-
-AutoX.Gara focuses on:
-
-- Showing a **layered architecture** (Domain, Application, Infrastructure, Backend, Frontend) with light DDD principles.
-- Providing a **realistic, but still approachable** codebase for experimenting with Nalix, TCP messaging, and Entity Framework Core.
-- Serving as a **reference implementation** for developers who want to build similar client–server systems using .NET and Nalix.
 
 ---
 
@@ -78,8 +61,3 @@ For the latest status and plans, please check the issues and milestones in each 
 
 - 💌 Email: [ppn.system@gmail.com](mailto:ppn.system@gmail.com)  
 - 🌐 GitHub Organization: [ppn-systems](https://github.com/ppn-systems)
-
----
-
-> Made with ❤️ from Vietnam (VN)  
-> _Ping Pong Network → PPN Systems_
