@@ -17,7 +17,7 @@ Our goal is to help .NET developers build **fast**, **secure**, and **maintainab
 
 | Project | Description |
 |--------|-------------|
-| [**Nalix**](https://github.com/ppn-systems/nalix) | A blazing‑fast .NET serialization and networking framework designed for real‑time systems and high‑load services. |
+| [**nalix**](https://github.com/ppn-systems/nalix) | A blazing‑fast .NET serialization and networking framework designed for real‑time systems and high‑load services. |
 
 > 🧭 _Additional libraries, tools, and sample applications are planned to extend the Nalix ecosystem and support end‑to‑end .NET solutions._
 
